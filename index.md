@@ -47,5 +47,5 @@ Nơi lưu trữ những lời giải cho các bài toán hay
 
 [OOP]
 
-## Cre
+## Credit
 Contest Summer 2021 của thầy Nguyễn Văn Hiếu - THPT Chuyên Hưng Yên
