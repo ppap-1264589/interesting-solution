@@ -3,7 +3,7 @@
 Nơi lưu trữ những lời giải cho các bài toán hay
 
 ## Series Thuật Toán
-[Hashing]
+[Hashing](https://ppap-1264589.github.io/Hashing)
 
 [Cây tiền tố Trie]
 
