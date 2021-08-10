@@ -1,8 +1,9 @@
 ## Trang web của PPAP_1264589
 
-Tài liệu thuật toán và lời giải
+Lời giải cho nhưng bài toán hay ho nhất tuyển Tin 2021
 
-## Series Thuật Toán
+## Main Series
+
 [Hashing](https://ppap-1264589.github.io/Hashing)
 
 [Cây tiền tố Trie](https://ppap-1264589.github.io/Trie)
@@ -48,4 +49,4 @@ Tài liệu thuật toán và lời giải
 [OOP]
 
 ## Credit
-Contest Summer 2021 của thầy Nguyễn Văn Hiếu - THPT Chuyên Hưng Yên
+Tài liệu luyện tập thi đội tuyển HSG Quốc Gia 2021
