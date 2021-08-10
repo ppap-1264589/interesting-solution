@@ -8,7 +8,7 @@ Lời giải cho nhưng bài toán hay ho nhất tuyển Tin 2021
 
 [Cây tiền tố Trie](https://ppap-1264589.github.io/Trie)
 
-[Range Minimum Query]
+[Range Minimum Query (2D)](https://ppap-1264589.github.io/RMQ)
 
 [Nhân ma trận]
 
