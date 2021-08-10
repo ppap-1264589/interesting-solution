@@ -1,4 +1,4 @@
-## Trang web của [PPAP_1264589](https://github.com/ppap-1264589)
+## Trang web của PPAP_1264589
 
 Nơi lưu trữ những lời giải cho các bài toán hay 📦
 
