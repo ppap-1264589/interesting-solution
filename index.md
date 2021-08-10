@@ -6,3 +6,4 @@ Nơi lưu trữ những lời giải cho các bài toán hay 📦
 [main](https://github.com/ppap-1264589/secret-of-cpp)
 
 ## Series Thuật Toán
+[Bitmasking](https://ppap-1264589.github.io/Bitmasking)
