@@ -1,3 +1,6 @@
 theme: jekyll-theme-slate
 title: Interesting Solutions
 description: Một kho lưu trữ bằng github
+github:
+  repository_url: https://github.com/ppap-1264589
+  name: About Me
