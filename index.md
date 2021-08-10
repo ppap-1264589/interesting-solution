@@ -1,6 +1,6 @@
 ## Trang web của PPAP_1264589
 
-Nơi lưu trữ những lời giải cho các bài toán hay
+Tài liệu thuật toán và lời giải
 
 ## Series Thuật Toán
 [Hashing](https://ppap-1264589.github.io/Hashing)
