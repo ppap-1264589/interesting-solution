@@ -20,7 +20,7 @@ Lời giải cho nhưng bài toán hay ho nhất tuyển Tin 2021
 
 [Thuật toán xâu: Z - KMP]
 
-[Cây khung nhỏ nhất]
+[Cây khung nhỏ nhất](https://ppap-1264589.github.io/MST/)
 
 [Lowest Common Ancestor]
 
