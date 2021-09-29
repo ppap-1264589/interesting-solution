@@ -50,7 +50,7 @@ Lời giải cho nhưng bài toán hay ho nhất tuyển Tin 2021
 
 [Rời rạc hoá]
 
-[OOP]
+[OOP](https://ppap-1264589.github.io/OOP)
 
 [Closest Pair of Points]
 
