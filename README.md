@@ -1,2 +1,2 @@
 # interesting-solution
-Config files for my GitHub profile.
+https://ppap-1264589.github.io/interesting-solution/
