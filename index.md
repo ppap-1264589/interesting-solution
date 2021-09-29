@@ -40,6 +40,10 @@ Lời giải cho nhưng bài toán hay ho nhất tuyển Tin 2021
 
 [Stack - Queue - Deque]
 
+[Maxflow - Đồ thị Bipartite]
+
+[Bao Lồi]
+
 ## Các chủ đề khác
 
 [Bignum với phép toán cộng, trừ, nhân]
@@ -48,5 +52,7 @@ Lời giải cho nhưng bài toán hay ho nhất tuyển Tin 2021
 
 [OOP]
 
+[Closest Pair of Points]
+
 ## Credit
-Tài liệu luyện tập thi đội tuyển HSG Quốc Gia 2021
+Tài liệu luyện tập đội tuyển HSG Quốc Gia 2021
