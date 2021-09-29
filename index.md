@@ -46,9 +46,7 @@ Lời giải cho nhưng bài toán hay ho nhất tuyển Tin 2021
 
 ## Các chủ đề khác
 
-[Bignum với phép toán cộng, trừ, nhân]
-
-[Rời rạc hoá]
+[Bignum với phép toán cộng, trừ, nhân](https://ppap-1264589.github.io/Bignum)
 
 [OOP](https://ppap-1264589.github.io/OOP)
 
