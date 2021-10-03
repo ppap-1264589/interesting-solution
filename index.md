@@ -52,5 +52,7 @@ Lời giải cho nhưng bài toán hay ho nhất tuyển Tin 2021
 
 [Closest Pair of Points](https://ppap-1264589.github.io/Closest_Pair)
 
+[Manachers]
+
 ## Credit
 Tài liệu luyện tập đội tuyển HSG Quốc Gia 2021
