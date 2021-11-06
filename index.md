@@ -14,13 +14,13 @@ Lời giải cho nhưng bài toán hay ho nhất tuyển Tin 2021
 
 [Disjoint Set Union]
 
-[Cây DFS - Ứng dụng tìm khớp cầu]
+[Cây DFS - Ứng dụng tìm khớp cầu](https://ppap-1264589.github.io/CutVertex-and-Bridge)
 
 [Tarjan - Tìm thành phần liên thông mạnh]
 
 [Thuật toán xâu: Z - KMP]
 
-[Cây khung nhỏ nhất](https://ppap-1264589.github.io/MST/)
+[Cây khung nhỏ nhất](https://ppap-1264589.github.io/MST)
 
 [Lowest Common Ancestor]
 
@@ -43,6 +43,8 @@ Lời giải cho nhưng bài toán hay ho nhất tuyển Tin 2021
 [Maxflow - Đồ thị Bipartite]
 
 [Bao Lồi]
+
+[Dp Bao Lồi (ConvexHull Trick)]
 
 ## Các chủ đề khác
 
