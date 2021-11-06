@@ -1,6 +1,6 @@
 ## Trang web của PPAP_1264589
 
-Lời giải cho nhưng bài toán hay ho nhất tuyển Tin 2021
+Lời giải cho những bài toán hay ho nhất tuyển Tin 2021
 
 ## Main Series
 
