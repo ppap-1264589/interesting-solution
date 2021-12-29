@@ -5,6 +5,8 @@ How to use generator.cpp:
 
 2) Copy .exe file into a project's directory where you want to generate testcases
 
+3) Rename the .exe file with the "Task name" you want to generate.
+
 # Generate testcases
 1) Make sure you are working on project which is contain checker (.exe file), using code from [test_generator.cpp](https://github.com/ppap-1264589/interesting-solution/blob/main/Chineses%20Remainder%20Theorem/test_generator.cpp)
 2) Enter your "Task name" on line ```18```
