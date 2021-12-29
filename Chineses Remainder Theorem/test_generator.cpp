@@ -14,8 +14,8 @@ using namespace std;
 
 int maxtest;
 ofstream fo;
-ofstream rfo("DRAFT.out");
-char NAME_file[] = "BASICCRT";  // <- Enter your Task file here
+ofstream rfo("table_of_contents.out");  // <- table of contents of testcases (first number is type of 'signal', second number is 'number of prime number choosen' for the testcase
+char NAME_file[] = "";  // <- Enter your "Task name" here
 char exe_file[100] = "";
 char inp_file[100] = "";
 char out_file[100] = "";
