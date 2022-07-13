@@ -58,5 +58,17 @@ Lời giải cho những bài toán hay ho nhất tuyển Tin 2021
 
 [Chia căn - Sqrt Decomposition](https://ppap-1264589.github.io/Sqrt-Decomposition)
 
+[Chia chuỗi - Heavy Light Decompostion](https://ppap-1264589.github.io/HLD)
+
+[Chia tâm - Centroid Decompostion](https://ppap-1264589.github.io/CentroidDecomposition/)
+
+## Hỗn tạp, ít áp dụng
+
+[Nén cây bằng Prufer](https://ppap-1264589.github.io/Prufer_code)
+
+[Kiểm tra tính nguyên tố của N trong O(log(n)^3) - MillerRabin Test](https://ppap-1264589.github.io/MillerRabin)
+
+[Phân tích một số N ra thừa số nguyên tố trong O(N^(1/4) * log(n))](https://ppap-1264589.github.io/PollardRho)
+
 ## Credit
 Tài liệu luyện tập đội tuyển HSG Quốc Gia 2021
