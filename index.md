@@ -70,5 +70,7 @@ Lời giải cho những bài toán hay ho nhất tuyển Tin 2021
 
 [Phân tích một số N ra thừa số nguyên tố trong O(N^(1/4) * log(n))](https://ppap-1264589.github.io/PollardRho)
 
+## [CSES Solutions](https://ppap-1264589.github.io/my-CSES-solutions)
+
 ## Credit
 Tài liệu luyện tập đội tuyển HSG Quốc Gia 2021
