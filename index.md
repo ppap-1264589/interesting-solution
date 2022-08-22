@@ -62,6 +62,8 @@ Lời giải cho những bài toán hay ho nhất tuyển Tin 2021
 
 [Chia tâm - Centroid Decompostion](https://ppap-1264589.github.io/CentroidDecomposition/)
 
+[Persistent Segment Tree](https://ppap-1264589.github.io/persistent_segment_tree)
+
 ## Hỗn tạp, ít áp dụng
 
 [Nén cây bằng Prufer](https://ppap-1264589.github.io/Prufer_code)
